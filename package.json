@@ -1,0 +1,16 @@
+{
+  "name": "stack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "DecimalConvert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "image-to-base64": "^2.2.0",
+    "ramda": "^0.27.1"
+  }
+}
